@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-CLI/static/css/main.2c947dbe.css",
+    "main.js": "/React-CLI/static/js/main.724361ea.js",
+    "index.html": "/React-CLI/index.html",
+    "main.2c947dbe.css.map": "/React-CLI/static/css/main.2c947dbe.css.map",
+    "main.724361ea.js.map": "/React-CLI/static/js/main.724361ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c947dbe.css",
+    "static/js/main.724361ea.js"
+  ]
+}
