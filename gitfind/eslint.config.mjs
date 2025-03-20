@@ -21,7 +21,7 @@ export default [
     },
     plugins: {
       react,
-      prettier,
+      prettier: prettier(), // Aqui é a diferença!
     },
     settings: {
       react: {
@@ -33,7 +33,7 @@ export default [
       ...react.configs.recommended.rules,
       ...prettierConfig.rules,
       "prettier/prettier": "error",
-      "react/react-in-jsx-scope": "off", // Desativa o erro
+      "react/react-in-jsx-scope": "off",
     },
   },
 ];
